@@ -1,3 +1,11 @@
+# RoadAgent
+
+> RoadAgent — BlackRoad agent framework. Fork of Mastra. Suspend/resume, RAG, MCP, fleet-native. Proprietary.
+
+Part of the [BlackRoad OS](https://blackroad.io) ecosystem — [BlackRoad-OS-Inc](https://github.com/BlackRoad-OS-Inc)
+
+---
+
 # RoadAgent — BlackRoad Agent Framework
 
 > Forked from [Mastra](https://github.com/mastra-ai/mastra). The TypeScript agent framework powering BlackRoad OS.
